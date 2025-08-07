@@ -1,7 +1,24 @@
-<span class="badge text-bg-secondary">@email</span>
+<span class="badge text-bg-secondary" @onmouseenter="HandleMouseOver" @onmouseleave="HandleMouseOut">@email</span>
 
 
 @code {
     [Parameter]
     public string? email { get; set; }
+
+    [Parameter]
+    public EventCallback<bool> OnHover { get; set; }
+    private bool isHovered;
+
+    private void HandleMouseOver()
+    {
+        isHovered = true;
+        OnHover.InvokeAsync(isHovered);
+    }
+
+    private void HandleMouseOut()
+    {
+        isHovered = false;
+        OnHover.InvokeAsync(isHovered);
+    }
+
 }

@@ -4,5 +4,26 @@
 
 <h1>Hello, world!</h1>
 
-Welcome <Label email="example@example.com"/> to your new app.
+<p>
+Welcome <Label email="example@example.com" OnHover="HandleHoverChange"/> to your new app.
+</p>
 
+<p>
+    @if (hovered)
+    {
+        <span class="text-success">You are hovering over the email badge!</span>
+    }
+    else
+    {
+        <span class="text-danger">Hover over the email badge to see a change!</span>
+    }
+</p>
+
+@code {
+    public bool hovered { get; set; } = false;
+    private void HandleHoverChange(bool isHovered)
+    {
+        hovered = isHovered;
+    }
+    
+}
