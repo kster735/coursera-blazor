@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "coursera",
   "resources": {
-    "hash": "sha256-rNm1fYuYrw40oU8kAEOUNLLoVDVeNX6d7JEw6VdmF8c=",
+    "hash": "sha256-XDBmoixA/IiMOqkZgIg9YfHVgiGb3xEF668y7eJvhZE=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.da83xzpz5r.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.vmzb2angnn.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -201,8 +201,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "coursera.wwn2y1y8wb.wasm": "coursera.wasm",
-      "coursera.km644fthjr.pdb": "coursera.pdb"
+      "coursera.u317xsfy0f.wasm": "coursera.wasm",
+      "coursera.z1wxufunh7.pdb": "coursera.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.1p93gcv9fh.js": "sha256-1UPiprzN3JhPftx3be7XEMaYlUN+chRF41CuttiWVtQ="
@@ -412,10 +412,10 @@
       "WindowsBase.ag32297siy.wasm": "sha256-BgyZxTgdU9rIYlNC9ZMiMjnvBAJSL0eQH8Y87o1M+q4=",
       "mscorlib.vt9pwshhot.wasm": "sha256-/aFxOaPc1iTNlJw0z4/RGEMD0nzl4qVE3SF4wMsLgp0=",
       "netstandard.or41gtprh3.wasm": "sha256-nD1KqAI5YYz+YohqHaZ5EmXi7Eq9Uy9sUknnI8sj1AM=",
-      "coursera.wwn2y1y8wb.wasm": "sha256-cPRdXj5Fg4vSG4tmi1x8k2ZsNeb9KBDSIZ0gyMe3nno="
+      "coursera.u317xsfy0f.wasm": "sha256-WiKfkqgwNR4NJcI6u6X9qkVIxXeN4LZ6aCxhUf3FNjE="
     },
     "pdb": {
-      "coursera.km644fthjr.pdb": "sha256-dNXQh/i7r/rJ3XHry+Zdty9aW+jbghM1kFFb6uE083M="
+      "coursera.z1wxufunh7.pdb": "sha256-hzqBq1/Jxu0p1Oi0QI+sa7uPCWJF9E/e5YLy0eMRsO8="
     }
   },
   "cacheBootResources": true,

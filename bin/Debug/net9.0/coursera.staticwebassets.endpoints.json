@@ -56347,17 +56347,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4UlCpWrCBwjIhIVamMbfaLQqsPq2FX2ylnGNBKCquE0=\""
+          "Value": "\"8eZ/R3meSO5M4kUdEazJAOCqwsfwS4omwIslYaHG4xA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 07 Aug 2025 03:05:11 GMT"
+          "Value": "Thu, 07 Aug 2025 04:29:18 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4UlCpWrCBwjIhIVamMbfaLQqsPq2FX2ylnGNBKCquE0="
+          "Value": "sha256-8eZ/R3meSO5M4kUdEazJAOCqwsfwS4omwIslYaHG4xA="
         }
       ]
     },
@@ -56394,15 +56394,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fnP0CggO1hcaxsys3F5ZMkW9W5YCEy6vlSg+j56M8zs=\""
+          "Value": "\"yhhCg8mWICQ31ajyk4SB0nG3lFoIy4V78G8+Az91OL0=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4UlCpWrCBwjIhIVamMbfaLQqsPq2FX2ylnGNBKCquE0=\""
+          "Value": "W/\"8eZ/R3meSO5M4kUdEazJAOCqwsfwS4omwIslYaHG4xA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 07 Aug 2025 02:35:57 GMT"
+          "Value": "Thu, 07 Aug 2025 03:05:11 GMT"
         },
         {
           "Name": "Vary",
@@ -56412,7 +56412,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4UlCpWrCBwjIhIVamMbfaLQqsPq2FX2ylnGNBKCquE0="
+          "Value": "sha256-8eZ/R3meSO5M4kUdEazJAOCqwsfwS4omwIslYaHG4xA="
         }
       ]
     },
@@ -56443,11 +56443,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fnP0CggO1hcaxsys3F5ZMkW9W5YCEy6vlSg+j56M8zs=\""
+          "Value": "\"yhhCg8mWICQ31ajyk4SB0nG3lFoIy4V78G8+Az91OL0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 07 Aug 2025 02:35:57 GMT"
+          "Value": "Thu, 07 Aug 2025 03:05:11 GMT"
         },
         {
           "Name": "Vary",
@@ -56457,7 +56457,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-fnP0CggO1hcaxsys3F5ZMkW9W5YCEy6vlSg+j56M8zs="
+          "Value": "sha256-yhhCg8mWICQ31ajyk4SB0nG3lFoIy4V78G8+Az91OL0="
         }
       ]
     },
@@ -56599,169 +56599,8 @@
       ]
     },
     {
-      "Route": "_framework/coursera.km644fthjr.pdb",
-      "AssetFile": "_framework/coursera.km644fthjr.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "25856"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"dNXQh/i7r/rJ3XHry+Zdty9aW+jbghM1kFFb6uE083M=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 07 Aug 2025 03:05:11 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "km644fthjr"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-dNXQh/i7r/rJ3XHry+Zdty9aW+jbghM1kFFb6uE083M="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/coursera.pdb"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/coursera.km644fthjr.pdb",
-      "AssetFile": "_framework/coursera.km644fthjr.pdb.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000052656522"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "18990"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Kz/VFUIFcpV3Y3cknREpDnKTVwcatrzv1bKLA+WLDLI=\""
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"dNXQh/i7r/rJ3XHry+Zdty9aW+jbghM1kFFb6uE083M=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 07 Aug 2025 03:05:11 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "km644fthjr"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-dNXQh/i7r/rJ3XHry+Zdty9aW+jbghM1kFFb6uE083M="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/coursera.pdb"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/coursera.km644fthjr.pdb.gz",
-      "AssetFile": "_framework/coursera.km644fthjr.pdb.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "18990"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Kz/VFUIFcpV3Y3cknREpDnKTVwcatrzv1bKLA+WLDLI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 07 Aug 2025 03:05:11 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "km644fthjr"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Kz/VFUIFcpV3Y3cknREpDnKTVwcatrzv1bKLA+WLDLI="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/coursera.pdb.gz"
-        }
-      ]
-    },
-    {
       "Route": "_framework/coursera.pdb",
-      "AssetFile": "_framework/coursera.km644fthjr.pdb",
+      "AssetFile": "_framework/coursera.z1wxufunh7.pdb",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -56774,7 +56613,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "25856"
+          "Value": "28220"
         },
         {
           "Name": "Content-Type",
@@ -56782,28 +56621,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"dNXQh/i7r/rJ3XHry+Zdty9aW+jbghM1kFFb6uE083M=\""
+          "Value": "\"hzqBq1/Jxu0p1Oi0QI+sa7uPCWJF9E/e5YLy0eMRsO8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 07 Aug 2025 03:05:11 GMT"
+          "Value": "Thu, 07 Aug 2025 04:29:17 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-dNXQh/i7r/rJ3XHry+Zdty9aW+jbghM1kFFb6uE083M="
+          "Value": "sha256-hzqBq1/Jxu0p1Oi0QI+sa7uPCWJF9E/e5YLy0eMRsO8="
         }
       ]
     },
     {
       "Route": "_framework/coursera.pdb",
-      "AssetFile": "_framework/coursera.km644fthjr.pdb.gz",
+      "AssetFile": "_framework/coursera.z1wxufunh7.pdb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000052656522"
+          "Quality": "0.000047438330"
         }
       ],
       "ResponseHeaders": [
@@ -56821,7 +56660,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "18990"
+          "Value": "21079"
         },
         {
           "Name": "Content-Type",
@@ -56829,15 +56668,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Kz/VFUIFcpV3Y3cknREpDnKTVwcatrzv1bKLA+WLDLI=\""
+          "Value": "\"zB7J0fjtYGDDZ8+dj8NvO5/QD1gMnYyZ0wA1t8DIHFE=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"dNXQh/i7r/rJ3XHry+Zdty9aW+jbghM1kFFb6uE083M=\""
+          "Value": "W/\"hzqBq1/Jxu0p1Oi0QI+sa7uPCWJF9E/e5YLy0eMRsO8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 07 Aug 2025 03:05:11 GMT"
+          "Value": "Thu, 07 Aug 2025 04:29:18 GMT"
         },
         {
           "Name": "Vary",
@@ -56847,13 +56686,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-dNXQh/i7r/rJ3XHry+Zdty9aW+jbghM1kFFb6uE083M="
+          "Value": "sha256-hzqBq1/Jxu0p1Oi0QI+sa7uPCWJF9E/e5YLy0eMRsO8="
         }
       ]
     },
     {
       "Route": "_framework/coursera.pdb.gz",
-      "AssetFile": "_framework/coursera.km644fthjr.pdb.gz",
+      "AssetFile": "_framework/coursera.z1wxufunh7.pdb.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -56870,7 +56709,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "18990"
+          "Value": "21079"
         },
         {
           "Name": "Content-Type",
@@ -56878,11 +56717,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Kz/VFUIFcpV3Y3cknREpDnKTVwcatrzv1bKLA+WLDLI=\""
+          "Value": "\"zB7J0fjtYGDDZ8+dj8NvO5/QD1gMnYyZ0wA1t8DIHFE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 07 Aug 2025 03:05:11 GMT"
+          "Value": "Thu, 07 Aug 2025 04:29:18 GMT"
         },
         {
           "Name": "Vary",
@@ -56892,13 +56731,174 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Kz/VFUIFcpV3Y3cknREpDnKTVwcatrzv1bKLA+WLDLI="
+          "Value": "sha256-zB7J0fjtYGDDZ8+dj8NvO5/QD1gMnYyZ0wA1t8DIHFE="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/coursera.u317xsfy0f.wasm",
+      "AssetFile": "_framework/coursera.u317xsfy0f.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21781"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WiKfkqgwNR4NJcI6u6X9qkVIxXeN4LZ6aCxhUf3FNjE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 07 Aug 2025 04:29:18 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u317xsfy0f"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WiKfkqgwNR4NJcI6u6X9qkVIxXeN4LZ6aCxhUf3FNjE="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/coursera.wasm"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/coursera.u317xsfy0f.wasm",
+      "AssetFile": "_framework/coursera.u317xsfy0f.wasm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000110411836"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9056"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Zzuuk2JqVdWwF+2swwD/exkE3cYifyuW5idkgprED6E=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"WiKfkqgwNR4NJcI6u6X9qkVIxXeN4LZ6aCxhUf3FNjE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 07 Aug 2025 04:29:18 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u317xsfy0f"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WiKfkqgwNR4NJcI6u6X9qkVIxXeN4LZ6aCxhUf3FNjE="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/coursera.wasm"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/coursera.u317xsfy0f.wasm.gz",
+      "AssetFile": "_framework/coursera.u317xsfy0f.wasm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9056"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Zzuuk2JqVdWwF+2swwD/exkE3cYifyuW5idkgprED6E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 07 Aug 2025 04:29:18 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u317xsfy0f"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Zzuuk2JqVdWwF+2swwD/exkE3cYifyuW5idkgprED6E="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/coursera.wasm.gz"
         }
       ]
     },
     {
       "Route": "_framework/coursera.wasm",
-      "AssetFile": "_framework/coursera.wwn2y1y8wb.wasm",
+      "AssetFile": "_framework/coursera.u317xsfy0f.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -56911,7 +56911,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "21269"
+          "Value": "21781"
         },
         {
           "Name": "Content-Type",
@@ -56919,28 +56919,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cPRdXj5Fg4vSG4tmi1x8k2ZsNeb9KBDSIZ0gyMe3nno=\""
+          "Value": "\"WiKfkqgwNR4NJcI6u6X9qkVIxXeN4LZ6aCxhUf3FNjE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 07 Aug 2025 03:05:11 GMT"
+          "Value": "Thu, 07 Aug 2025 04:29:18 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-cPRdXj5Fg4vSG4tmi1x8k2ZsNeb9KBDSIZ0gyMe3nno="
+          "Value": "sha256-WiKfkqgwNR4NJcI6u6X9qkVIxXeN4LZ6aCxhUf3FNjE="
         }
       ]
     },
     {
       "Route": "_framework/coursera.wasm",
-      "AssetFile": "_framework/coursera.wwn2y1y8wb.wasm.gz",
+      "AssetFile": "_framework/coursera.u317xsfy0f.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000114390300"
+          "Quality": "0.000110411836"
         }
       ],
       "ResponseHeaders": [
@@ -56958,7 +56958,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8741"
+          "Value": "9056"
         },
         {
           "Name": "Content-Type",
@@ -56966,15 +56966,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"bs3+GS2sugz14b428eh4hc/wg1oLyzzzLGDHHDus0I0=\""
+          "Value": "\"Zzuuk2JqVdWwF+2swwD/exkE3cYifyuW5idkgprED6E=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"cPRdXj5Fg4vSG4tmi1x8k2ZsNeb9KBDSIZ0gyMe3nno=\""
+          "Value": "W/\"WiKfkqgwNR4NJcI6u6X9qkVIxXeN4LZ6aCxhUf3FNjE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 07 Aug 2025 03:05:11 GMT"
+          "Value": "Thu, 07 Aug 2025 04:29:18 GMT"
         },
         {
           "Name": "Vary",
@@ -56984,13 +56984,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-cPRdXj5Fg4vSG4tmi1x8k2ZsNeb9KBDSIZ0gyMe3nno="
+          "Value": "sha256-WiKfkqgwNR4NJcI6u6X9qkVIxXeN4LZ6aCxhUf3FNjE="
         }
       ]
     },
     {
       "Route": "_framework/coursera.wasm.gz",
-      "AssetFile": "_framework/coursera.wwn2y1y8wb.wasm.gz",
+      "AssetFile": "_framework/coursera.u317xsfy0f.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -57007,7 +57007,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8741"
+          "Value": "9056"
         },
         {
           "Name": "Content-Type",
@@ -57015,11 +57015,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"bs3+GS2sugz14b428eh4hc/wg1oLyzzzLGDHHDus0I0=\""
+          "Value": "\"Zzuuk2JqVdWwF+2swwD/exkE3cYifyuW5idkgprED6E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 07 Aug 2025 03:05:11 GMT"
+          "Value": "Thu, 07 Aug 2025 04:29:18 GMT"
         },
         {
           "Name": "Vary",
@@ -57029,13 +57029,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-bs3+GS2sugz14b428eh4hc/wg1oLyzzzLGDHHDus0I0="
+          "Value": "sha256-Zzuuk2JqVdWwF+2swwD/exkE3cYifyuW5idkgprED6E="
         }
       ]
     },
     {
-      "Route": "_framework/coursera.wwn2y1y8wb.wasm",
-      "AssetFile": "_framework/coursera.wwn2y1y8wb.wasm",
+      "Route": "_framework/coursera.z1wxufunh7.pdb",
+      "AssetFile": "_framework/coursera.z1wxufunh7.pdb",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -57048,44 +57048,44 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "21269"
+          "Value": "28220"
         },
         {
           "Name": "Content-Type",
-          "Value": "application/wasm"
+          "Value": "application/octet-stream"
         },
         {
           "Name": "ETag",
-          "Value": "\"cPRdXj5Fg4vSG4tmi1x8k2ZsNeb9KBDSIZ0gyMe3nno=\""
+          "Value": "\"hzqBq1/Jxu0p1Oi0QI+sa7uPCWJF9E/e5YLy0eMRsO8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 07 Aug 2025 03:05:11 GMT"
+          "Value": "Thu, 07 Aug 2025 04:29:17 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "wwn2y1y8wb"
+          "Value": "z1wxufunh7"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-cPRdXj5Fg4vSG4tmi1x8k2ZsNeb9KBDSIZ0gyMe3nno="
+          "Value": "sha256-hzqBq1/Jxu0p1Oi0QI+sa7uPCWJF9E/e5YLy0eMRsO8="
         },
         {
           "Name": "label",
-          "Value": "_framework/coursera.wasm"
+          "Value": "_framework/coursera.pdb"
         }
       ]
     },
     {
-      "Route": "_framework/coursera.wwn2y1y8wb.wasm",
-      "AssetFile": "_framework/coursera.wwn2y1y8wb.wasm.gz",
+      "Route": "_framework/coursera.z1wxufunh7.pdb",
+      "AssetFile": "_framework/coursera.z1wxufunh7.pdb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000114390300"
+          "Quality": "0.000047438330"
         }
       ],
       "ResponseHeaders": [
@@ -57103,23 +57103,23 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8741"
+          "Value": "21079"
         },
         {
           "Name": "Content-Type",
-          "Value": "application/wasm"
+          "Value": "application/octet-stream"
         },
         {
           "Name": "ETag",
-          "Value": "\"bs3+GS2sugz14b428eh4hc/wg1oLyzzzLGDHHDus0I0=\""
+          "Value": "\"zB7J0fjtYGDDZ8+dj8NvO5/QD1gMnYyZ0wA1t8DIHFE=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"cPRdXj5Fg4vSG4tmi1x8k2ZsNeb9KBDSIZ0gyMe3nno=\""
+          "Value": "W/\"hzqBq1/Jxu0p1Oi0QI+sa7uPCWJF9E/e5YLy0eMRsO8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 07 Aug 2025 03:05:11 GMT"
+          "Value": "Thu, 07 Aug 2025 04:29:18 GMT"
         },
         {
           "Name": "Vary",
@@ -57129,21 +57129,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "wwn2y1y8wb"
+          "Value": "z1wxufunh7"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-cPRdXj5Fg4vSG4tmi1x8k2ZsNeb9KBDSIZ0gyMe3nno="
+          "Value": "sha256-hzqBq1/Jxu0p1Oi0QI+sa7uPCWJF9E/e5YLy0eMRsO8="
         },
         {
           "Name": "label",
-          "Value": "_framework/coursera.wasm"
+          "Value": "_framework/coursera.pdb"
         }
       ]
     },
     {
-      "Route": "_framework/coursera.wwn2y1y8wb.wasm.gz",
-      "AssetFile": "_framework/coursera.wwn2y1y8wb.wasm.gz",
+      "Route": "_framework/coursera.z1wxufunh7.pdb.gz",
+      "AssetFile": "_framework/coursera.z1wxufunh7.pdb.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -57160,19 +57160,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8741"
+          "Value": "21079"
         },
         {
           "Name": "Content-Type",
-          "Value": "application/wasm"
+          "Value": "application/octet-stream"
         },
         {
           "Name": "ETag",
-          "Value": "\"bs3+GS2sugz14b428eh4hc/wg1oLyzzzLGDHHDus0I0=\""
+          "Value": "\"zB7J0fjtYGDDZ8+dj8NvO5/QD1gMnYyZ0wA1t8DIHFE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 07 Aug 2025 03:05:11 GMT"
+          "Value": "Thu, 07 Aug 2025 04:29:18 GMT"
         },
         {
           "Name": "Vary",
@@ -57182,15 +57182,15 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "wwn2y1y8wb"
+          "Value": "z1wxufunh7"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-bs3+GS2sugz14b428eh4hc/wg1oLyzzzLGDHHDus0I0="
+          "Value": "sha256-zB7J0fjtYGDDZ8+dj8NvO5/QD1gMnYyZ0wA1t8DIHFE="
         },
         {
           "Name": "label",
-          "Value": "_framework/coursera.wasm.gz"
+          "Value": "_framework/coursera.pdb.gz"
         }
       ]
     },
@@ -60473,13 +60473,13 @@
       ]
     },
     {
-      "Route": "coursera.e8bfsm8hio.styles.css",
+      "Route": "coursera.psp010rnu0.styles.css",
       "AssetFile": "coursera.styles.css.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000702740689"
+          "Quality": "0.000651890482"
         }
       ],
       "ResponseHeaders": [
@@ -60497,7 +60497,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1422"
+          "Value": "1533"
         },
         {
           "Name": "Content-Type",
@@ -60505,15 +60505,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lYRMyJTKpMUuiAuL16lAKw0p74GpERUWLu8XIZVmazE=\""
+          "Value": "\"+mTvVVMo5ql5kXTRTTEEb6nOhaH3KT6dQMGdqSsjmzw=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"nloPN+QWHGIftvFE/I/mqtb9ICkIndb0OGCtRuIwXXw=\""
+          "Value": "W/\"Z2x5hb7oGy24aWydPKZBC+6GVYuzS1zDzwOlu3kmJKs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 07 Aug 2025 03:04:15 GMT"
+          "Value": "Thu, 07 Aug 2025 03:07:25 GMT"
         },
         {
           "Name": "Vary",
@@ -60523,11 +60523,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "e8bfsm8hio"
+          "Value": "psp010rnu0"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-nloPN+QWHGIftvFE/I/mqtb9ICkIndb0OGCtRuIwXXw="
+          "Value": "sha256-Z2x5hb7oGy24aWydPKZBC+6GVYuzS1zDzwOlu3kmJKs="
         },
         {
           "Name": "label",
@@ -60536,7 +60536,7 @@
       ]
     },
     {
-      "Route": "coursera.e8bfsm8hio.styles.css",
+      "Route": "coursera.psp010rnu0.styles.css",
       "AssetFile": "coursera.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -60550,7 +60550,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5072"
+          "Value": "5103"
         },
         {
           "Name": "Content-Type",
@@ -60558,21 +60558,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nloPN+QWHGIftvFE/I/mqtb9ICkIndb0OGCtRuIwXXw=\""
+          "Value": "\"Z2x5hb7oGy24aWydPKZBC+6GVYuzS1zDzwOlu3kmJKs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 07 Aug 2025 03:04:15 GMT"
+          "Value": "Thu, 07 Aug 2025 03:07:25 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "e8bfsm8hio"
+          "Value": "psp010rnu0"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-nloPN+QWHGIftvFE/I/mqtb9ICkIndb0OGCtRuIwXXw="
+          "Value": "sha256-Z2x5hb7oGy24aWydPKZBC+6GVYuzS1zDzwOlu3kmJKs="
         },
         {
           "Name": "label",
@@ -60581,7 +60581,7 @@
       ]
     },
     {
-      "Route": "coursera.e8bfsm8hio.styles.css.gz",
+      "Route": "coursera.psp010rnu0.styles.css.gz",
       "AssetFile": "coursera.styles.css.gz",
       "Selectors": [],
       "ResponseHeaders": [
@@ -60599,7 +60599,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1422"
+          "Value": "1533"
         },
         {
           "Name": "Content-Type",
@@ -60607,11 +60607,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lYRMyJTKpMUuiAuL16lAKw0p74GpERUWLu8XIZVmazE=\""
+          "Value": "\"+mTvVVMo5ql5kXTRTTEEb6nOhaH3KT6dQMGdqSsjmzw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 07 Aug 2025 03:04:15 GMT"
+          "Value": "Thu, 07 Aug 2025 03:07:25 GMT"
         },
         {
           "Name": "Vary",
@@ -60621,11 +60621,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "e8bfsm8hio"
+          "Value": "psp010rnu0"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-lYRMyJTKpMUuiAuL16lAKw0p74GpERUWLu8XIZVmazE="
+          "Value": "sha256-+mTvVVMo5ql5kXTRTTEEb6nOhaH3KT6dQMGdqSsjmzw="
         },
         {
           "Name": "label",
@@ -60640,7 +60640,7 @@
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000702740689"
+          "Quality": "0.000651890482"
         }
       ],
       "ResponseHeaders": [
@@ -60658,7 +60658,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1422"
+          "Value": "1533"
         },
         {
           "Name": "Content-Type",
@@ -60666,15 +60666,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lYRMyJTKpMUuiAuL16lAKw0p74GpERUWLu8XIZVmazE=\""
+          "Value": "\"+mTvVVMo5ql5kXTRTTEEb6nOhaH3KT6dQMGdqSsjmzw=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"nloPN+QWHGIftvFE/I/mqtb9ICkIndb0OGCtRuIwXXw=\""
+          "Value": "W/\"Z2x5hb7oGy24aWydPKZBC+6GVYuzS1zDzwOlu3kmJKs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 07 Aug 2025 03:04:15 GMT"
+          "Value": "Thu, 07 Aug 2025 03:07:25 GMT"
         },
         {
           "Name": "Vary",
@@ -60684,7 +60684,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-nloPN+QWHGIftvFE/I/mqtb9ICkIndb0OGCtRuIwXXw="
+          "Value": "sha256-Z2x5hb7oGy24aWydPKZBC+6GVYuzS1zDzwOlu3kmJKs="
         }
       ]
     },
@@ -60703,7 +60703,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5072"
+          "Value": "5103"
         },
         {
           "Name": "Content-Type",
@@ -60711,17 +60711,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nloPN+QWHGIftvFE/I/mqtb9ICkIndb0OGCtRuIwXXw=\""
+          "Value": "\"Z2x5hb7oGy24aWydPKZBC+6GVYuzS1zDzwOlu3kmJKs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 07 Aug 2025 03:04:15 GMT"
+          "Value": "Thu, 07 Aug 2025 03:07:25 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-nloPN+QWHGIftvFE/I/mqtb9ICkIndb0OGCtRuIwXXw="
+          "Value": "sha256-Z2x5hb7oGy24aWydPKZBC+6GVYuzS1zDzwOlu3kmJKs="
         }
       ]
     },
@@ -60744,7 +60744,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1422"
+          "Value": "1533"
         },
         {
           "Name": "Content-Type",
@@ -60752,11 +60752,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lYRMyJTKpMUuiAuL16lAKw0p74GpERUWLu8XIZVmazE=\""
+          "Value": "\"+mTvVVMo5ql5kXTRTTEEb6nOhaH3KT6dQMGdqSsjmzw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 07 Aug 2025 03:04:15 GMT"
+          "Value": "Thu, 07 Aug 2025 03:07:25 GMT"
         },
         {
           "Name": "Vary",
@@ -60766,7 +60766,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-lYRMyJTKpMUuiAuL16lAKw0p74GpERUWLu8XIZVmazE="
+          "Value": "sha256-+mTvVVMo5ql5kXTRTTEEb6nOhaH3KT6dQMGdqSsjmzw="
         }
       ]
     },
