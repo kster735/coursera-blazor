@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("coursera")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8202a053f44614dfb3af4c17c9989c107286616d")]
 [assembly: System.Reflection.AssemblyProductAttribute("coursera")]
 [assembly: System.Reflection.AssemblyTitleAttribute("coursera")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
